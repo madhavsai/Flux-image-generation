@@ -1,0 +1,11 @@
+Flask
+torch
+diffusers
+huggingface_hub
+transformers
+accelerate
+huggingface_hub
+sentencepiece
+protobuf
+numpy==1.23
+peft
