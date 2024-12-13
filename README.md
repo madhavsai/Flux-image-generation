@@ -99,9 +99,3 @@ ENV FLASK_ENV=development
 CMD ["python", "app.py"]
 Contributing
 Feel free to fork this repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-
-You can now copy and paste this content into your `README.md` file. If you need any further assistance, feel free to ask! 😊🚀
